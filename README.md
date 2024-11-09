@@ -17,17 +17,14 @@ OpenCV (cv2): To perform image processing tasks like edge and corner detection.
 NumPy and Pandas: For data handling and manipulation.
 Matplotlib: To visualize data and model performance.
 Scikit-learn (sklearn): For implementing machine learning algorithms and evaluating performance.
+
 Getting Started
 Clone the Repository:
 
-bash
-Copy code
 git clone https://github.com/your-username/digit-recognition-model.git
 cd digit-recognition-model
 Install Dependencies: Ensure you have all required packages installed by running:
 
-bash
-Copy code
 pip install -r requirements.txt
 Run the Notebook: Open and run the Jupyter Notebook digit_recognition_model.ipynb to train and test the model on the MNIST dataset.
 
